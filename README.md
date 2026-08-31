@@ -176,7 +176,7 @@ Each stage builds on the last — I'm not chasing every technology at once, I'm 
 <a href="https://github.com/kushal98457-ctrl"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
-*(Replace the placeholder email/LinkedIn links above with your actual details before publishing.)*
+*(will be connected shortly.)*
 
 <br/>
 
