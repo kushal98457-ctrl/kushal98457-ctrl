@@ -17,7 +17,7 @@ I learn by shipping — real projects, real bugs, real refactors.
 
 ## About Me
 
-- 🎓 Computer Science & Engineering student at **Cambridge Institute of Technology**, affiliated with **VTU (Visvesvaraya Technological University)**
+- 🎓 Computer Science & Engineering student
 - 🛠️ Interested in **backend engineering, real-time systems, AI/RAG applications, and developer tooling**
 - 🧠 Currently deepening my understanding of **system architecture, performance optimization, and applied machine learning**
 - 🔍 Exploring **open-source contribution** — fixing issues, improving docs, refactoring, and submitting meaningful PRs
@@ -86,89 +86,6 @@ I learn by shipping — real projects, real bugs, real refactors.
 | **Other** | FFmpeg, GitHub, trading/financial tech concepts, blockchain/Web3 concepts |
 
 </details>
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🎞️ ASCILINE — Real-Time ASCII/Video Rendering System
-
-A real-time video-to-ASCII rendering engine that streams processed frames over WebSockets to a browser renderer.
-
-```
-Original Video → Frame Processing → ASCII/Pixel Conversion →
-Encoding/Streaming → WebSocket → Browser Renderer → Real-Time Output
-```
-
-**What it does**
-- Converts video into real-time ASCII / pixel-based visual output
-- Streams frames as binary data over WebSockets for low-latency rendering
-- Supports audio synchronization alongside the video stream
-- Compiles processed sequences into a custom `.ascf` format for a lightweight static player
-- Supports playlists and containerized deployment via Docker
-
-**Engineering focus:** real-time streaming architecture, binary data transport, frame-processing performance, and keeping playback smooth under continuous encode/decode load.
-
-**Stack:** Python · OpenCV · NumPy · FastAPI · WebSockets · JavaScript · HTML5 Canvas · FFmpeg · Docker
-
-**Repo:** [github.com/kushal98457-ctrl/ASCILINE](https://github.com/kushal98457-ctrl/ASCILINE)
-
-> 🖼️ *Suggested asset: side-by-side "Original → ASCILINE Output" demo GIF (see Assets checklist below)*
-
----
-
-### 🧩 CRISPE AI — Structured Prompt-Generation Tool
-
-An AI-productivity tool built around the **CRISPE** prompting framework — **C**ontext, **R**ole, **I**nstruction, **S**pecification, **P**erformance, **E**xample.
-
-**Built / in progress**
-- Python backend with an HTML/CSS frontend
-- Offline-first, JSON-based local storage — no external DB dependency
-- Local prompt history and recent-prompts view
-
-**Designed for (architecture direction, not all implemented yet)**
-- Clean Architecture / MVVM-influenced structure with feature-first modularization
-- Dependency Injection and SOLID-aligned module boundaries
-- Pluggable model backends (OpenAI, Claude, Ollama)
-- Future: cloud sync, plugin system, team collaboration
-
-**Stack:** Python · HTML/CSS · JSON
-
----
-
-### 📖 Bionic Reader — Accessibility-Focused Reading Tool
-
-A Bionic Reading app that bolds the leading portion of each word to improve reading speed and focus, built and iterated across multiple versions.
-
-**Architecture**
-```
-Input (Text/PDF/DOCX) → Extractor/Cleaner/Word Parser →
-Bionic Algorithm (word length, bold ratio, rules) →
-Formatting Engine → Renderer (HTML/PDF/Text) → UI
-```
-
-**Highlights**
-- FastAPI backend with a `/convert` endpoint
-- Configurable bold strength presets (Low 30% · Medium 40% · High 50% · Max 60%)
-- Special-case handling for short words, long words, numbers, URLs, punctuation, and hyphenated words
-- Multiple output formats: HTML, PDF, and plain text
-- Iterated through staged development — core algorithm → text processing → web interface → PDF support → export — with ongoing refactors, testing, and version upgrades
-
-**Stack:** Python · FastAPI
-
----
-
-### 📦 RouteSafe / Leetdell — Delivery-Risk Prediction
-
-A practical ML application for **operational decision support**: predicting the risk of a failed delivery *before* dispatch.
-
-**How it works**
-- A logistic regression model scores delivery risk using factors like area, time slot, weather, and order type
-- When the predicted risk crosses a configured threshold, the system flags the delivery for manager review before it goes out
-
-**Why it matters:** turns a reactive "delivery failed" problem into a proactive, reviewable decision point — a small model doing a focused, useful job rather than a black-box prediction with no action attached.
-
-**Stack:** Python · Logistic Regression
 
 <br/>
 
