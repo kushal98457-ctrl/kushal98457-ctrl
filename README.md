@@ -90,10 +90,7 @@ I learn by shipping — real projects, real bugs, real refactors.
 <br/>
 
 ## 🏗️ Engineering Philosophy
-
-```
 Build → Test → Improve → Document
-```
 
 - Practical projects over tutorial-only projects
 - Clean, modular architecture over quick hacks
@@ -152,17 +149,14 @@ Not everything below is a finished product — some are experiments, some are in
 <br/>
 
 ## 📈 Learning Direction
-
-```
 Software Engineering
-   → Backend Development
-      → Systems & Performance
-         → AI / ML
-            → RAG
-               → Real-Time Applications
-                  → Blockchain / FinTech
-                     → Open Source
-```
+→ Backend Development
+→ Systems & Performance
+→ AI / ML
+→ RAG
+→ Real-Time Applications
+→ Blockchain / FinTech
+→ Open Source
 
 Each stage builds on the last — I'm not chasing every technology at once, I'm moving through this progression one solid project at a time.
 
@@ -183,6 +177,7 @@ Each stage builds on the last — I'm not chasing every technology at once, I'm 
 ---
 
 <div align="center">
+
 ![3D contribution graph](profile-3d-contrib/profile-night-green.svg)
 
 **Someone who learns by building.**
