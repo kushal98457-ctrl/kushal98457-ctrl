@@ -183,6 +183,7 @@ Each stage builds on the last — I'm not chasing every technology at once, I'm 
 ---
 
 <div align="center">
+![3D contribution graph](profile-3d-contrib/profile-night-green.svg)
 
 **Someone who learns by building.**
 
