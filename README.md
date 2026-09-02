@@ -179,9 +179,9 @@ Each stage builds on the last — I'm not chasing every technology at once, I'm 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushal98457-ctrl/kushal98457-ctrl/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushal98457-ctrl/kushal98457-ctrl/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kushal98457-ctrl/kushal98457-ctrl/output/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushal98457-ctrl/kushal98457-ctrl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushal98457-ctrl/kushal98457-ctrl/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kushal98457-ctrl/kushal98457-ctrl/output/github-snake.svg" />
 </picture>
 
 **Someone who learns by building.**
