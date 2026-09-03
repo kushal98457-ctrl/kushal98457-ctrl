@@ -8,8 +8,8 @@ I learn by shipping — real projects, real bugs, real refactors.
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kushal98457-ctrl&color=blue&style=flat-square&label=Profile+Views)
-[![GitHub](https://img.shields.io/badge/GitHub-kushal98457--ctrl-181717?style=flat-square&logo=github)](https://github.com/kushal98457-ctrl)
+![Profile Views](https://komarev.com/ghpvc/?username=kushal98457-ctrl&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-kushal98457--ctrl-181717?style=for-the-badge&logo=github)](https://github.com/kushal98457-ctrl)
 
 </div>
 
@@ -105,14 +105,24 @@ Build → Test → Improve → Document
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kushal98457-ctrl&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98457-ctrl&layout=compact&hide_border=true&theme=default" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kushal98457-ctrl&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal98457-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal98457-ctrl&hide_border=true&theme=default" height="165"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98457-ctrl&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal98457-ctrl&hide_border=true&theme=tokyonight&background=0D1117" height="0" width="0" style="display:none"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kushal98457-ctrl&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&row=1" height="110"/>
 
 </div>
 
-*Stats are generated live by third-party services (github-readme-stats / github-readme-streak-stats) — if a card fails to render on your fork, it usually means the service is temporarily rate-limited; it isn't fabricated data.*
+<p align="center">
+<sub>Stats are generated live by third-party services (github-readme-stats / github-readme-streak-stats / github-profile-trophy) — if a card fails to render on your fork, it's usually a temporary rate-limit on the service, not fabricated data.</sub>
+</p>
 
 <br/>
 
@@ -163,7 +173,6 @@ Each stage builds on the last — I'm not chasing every technology at once, I'm 
 <br/>
 
 ## 📫 Connect
-
 
 *(will be connected shortly.)*
 
