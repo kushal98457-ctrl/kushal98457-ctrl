@@ -114,15 +114,9 @@ Build → Test → Improve → Document
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal98457-ctrl&hide_border=true&theme=tokyonight&background=0D1117" height="0" width="0" style="display:none"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=kushal98457-ctrl&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&row=1" height="110"/>
 
 </div>
-
-<p align="center">
-<sub>Stats are generated live by third-party services (github-readme-stats / github-readme-streak-stats / github-profile-trophy) — if a card fails to render on your fork, it's usually a temporary rate-limit on the service, not fabricated data.</sub>
-</p>
 
 <br/>
 
