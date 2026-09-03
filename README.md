@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/terminal_banner.svg" width="700" alt="Kushal — terminal boot banner"/>
+</p>
+
 <div align="center">
 
 # Hi, I'm Kushal 👋
@@ -36,6 +40,7 @@ I learn by shipping — real projects, real bugs, real refactors.
 | 🌱 **Learning** | Distributed/real-time architecture, and the fundamentals of blockchain & FinTech systems |
 | 🤝 **Open to** | Open-source collaboration and code review on backend/AI-adjacent repos |
 
+*Not all of the above are active at once — this is a rotating set of interests, not a permanent job description.*
 
 <br/>
 
