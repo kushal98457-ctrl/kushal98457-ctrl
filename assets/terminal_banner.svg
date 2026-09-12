@@ -1,59 +1,185 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="554" viewBox="0 0 720 554" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyMzU2M2JhNC1kN2NmLTQ1ZDAtOWI4Yy1kZmE3MGVjOTgxY2QAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNh9sVQwgIu1uMUWLF02ZxcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5Yzk4ZmZkYi01ZjEzLTQyOGYtOWViZS04MThlZTcxNDYxZDdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNogUrwuKIbyFij4li/5uyckwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg+R1s9dWNuxukGQJS0yau20pNQVzfPpQzaQBahzZA5mSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNHic985owN00XDz5/QUydkAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAcXlCkVeFTsng53P1pG4MO6hXST4HVjql9e33vjdOBt2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjIzNTYzYmE0LWQ3Y2YtNDVkMC05YjhjLWRmYTcwZWM5ODFjZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmRlYjRhMjFhLTE1YWEtNDUxNC1hZTUzLTE1ZDQ4ZjkwMzUyNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD5HWz11Y27G6QZAlLTJq7bSk1BXN8+lDNpAFqHNkDmZKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggUizzanpgHEV3fZ6C+dz52tnSf2hYDkI9ZZyHw9EB06SiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggXPyCr/dPjX++siDUfOnF3uxSAhPc8BxBFRIk1LRCQKF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFOoGlLecYkUiDZnmoMkLniFgTWlVsEGmruIpaVGAkqtQF5ZK4hAdDlWrBQrKSV6bNwi5ge1dlPgF5D3TD+aYfs=</c2pa:manifest></metadata>
-  <rect x="0" y="0" width="720" height="554" rx="12" fill="#0d1117"/>
-  <path d="M0,12 Q0,0 12,0 H708 Q720,0 720,12 V40 H0 Z" fill="#161b22"/>
-  <circle cx="28" cy="20.0" r="6" fill="#ff5f56"/><circle cx="48" cy="20.0" r="6" fill="#ffbd2e"/><circle cx="68" cy="20.0" r="6" fill="#27c93f"/>
-  <text x="360.0" y="25.0" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="12" fill="#8b949e">kushal@dev — zsh — 80x24</text>
-  
-  <text x="36" y="74" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="16" font-weight="700" fill="#c9d1d9" opacity="0">
-    INITIALIZING KUSHAL_OS...
-    <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.3s" fill="freeze"/>
-  </text>
-  <rect x="36" y="116" width="300" height="14" rx="3" fill="#21262d"/>
-  <rect x="36" y="116" width="0" height="14" rx="3" fill="#58a6ff">
-    <animate attributeName="width" from="0" to="300" begin="0.5s" dur="1.8s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1" keyTimes="0;1" values="0;300"/>
-  </rect>
-  <text x="350" y="128" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#8b949e" opacity="0">
-    100%
-    <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.25s" fill="freeze"/>
-  </text>
-  <text x="36" y="164" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14" fill="#8b949e" opacity="0">
-    &gt; mounting fastapi_core
-    <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.25s" fill="freeze"/>
-  </text>
-  <text x="36" y="186" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14" fill="#8b949e" opacity="0">
-    &gt; initializing websocket_layer
-    <animate attributeName="opacity" from="0" to="1" begin="0.77s" dur="0.25s" fill="freeze"/>
-  </text>
-  <text x="36" y="208" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14" fill="#8b949e" opacity="0">
-    &gt; loading opencv_pipeline
-    <animate attributeName="opacity" from="0" to="1" begin="0.99s" dur="0.25s" fill="freeze"/>
-  </text>
-  <text x="36" y="230" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14" fill="#8b949e" opacity="0">
-    &gt; compiling ai_module :: RAG [OK]
-    <animate attributeName="opacity" from="0" to="1" begin="1.21s" dur="0.25s" fill="freeze"/>
-  </text>
-  <text x="36" y="252" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14" fill="#8b949e" opacity="0">
-    &gt; linking docker_runtime [OK]
-    <animate attributeName="opacity" from="0" to="1" begin="1.43s" dur="0.25s" fill="freeze"/>
-  </text>
-  <text x="36" y="274" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14" fill="#8b949e" opacity="0">
-    &gt; mounting mongodb_store [OK]
-    <animate attributeName="opacity" from="0" to="1" begin="1.65s" dur="0.25s" fill="freeze"/>
-  </text>
-  <text x="36" y="296" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="14" fill="#8b949e" opacity="0">
-    &gt; systems check :: real-time_engine [OK]
-    <animate attributeName="opacity" from="0" to="1" begin="1.87s" dur="0.25s" fill="freeze"/>
-  </text>
-  <g opacity="0">
-    <text x="360.0" y="344" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#58a6ff" xml:space="preserve"> _   ___   _ _____ _   _   ___   _     </text><text x="360.0" y="370" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#58a6ff" xml:space="preserve">| | / / | | /  ___| | | | / _ \ | |    </text><text x="360.0" y="396" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#58a6ff" xml:space="preserve">| |/ /| | | \ `--.| |_| |/ /_\ \| |    </text><text x="360.0" y="422" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#58a6ff" xml:space="preserve">|    \| | | |`--. \  _  ||  _  || |    </text><text x="360.0" y="448" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#58a6ff" xml:space="preserve">| |\  \ |_| /\__/ / | | || | | || |____</text><text x="360.0" y="474" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="20" font-weight="700" fill="#58a6ff" xml:space="preserve">\_| \_/\___/\____/\_| |_/\_| |_/\_____/</text>
-    <animate attributeName="opacity" from="0" to="1" begin="2.34s" dur="0.5s" fill="freeze"/>
-  </g>
-  <text x="360.0" y="520" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="15" font-weight="700" fill="#8b949e" opacity="0" letter-spacing="1" xml:space="preserve">
-    B A C K E N D   &amp;   A I   S Y S T E M S
-    <animate attributeName="opacity" from="0" to="1" begin="3.04s" dur="0.4s" fill="freeze"/>
-  </text>
-  <rect x="558.9" y="507" width="9" height="16" fill="#58a6ff" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="3.44s" dur="0.15s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="3.44s" repeatCount="indefinite"/>
-  </rect>
-</svg>
+<p align="center">
+  <img src="assets/terminal_banner.svg" width="700" alt="Kushal — terminal boot banner"/>
+</p>
+
+<div align="center">
+
+# Hi, I'm Kushal 👋
+
+### CS & Engineering student building software across AI, backend systems, real-time processing, and developer tools.
+
+I learn by shipping — real projects, real bugs, real refactors.
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kushal98457-ctrl&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-kushal98457--ctrl-181717?style=for-the-badge&logo=github)](https://github.com/kushal98457-ctrl)
+
+</div>
+
+<br/>
+
+## About Me
+
+- 🎓 Computer Science & Engineering student
+- 🛠️ Interested in **backend engineering, real-time systems, AI/RAG applications, and developer tooling**
+- 🧠 Currently deepening my understanding of **system architecture, performance optimization, and applied machine learning**
+- 🔍 Exploring **open-source contribution** — fixing issues, improving docs, refactoring, and submitting meaningful PRs
+- 💬 I care about *why* something works, not just that it works — I try to understand systems, not just use frameworks
+- ⚡ Fun fact: I'd rather rebuild something properly than patch it forever
+
+<br/>
+
+## 🚧 Currently
+
+| | |
+|---|---|
+| 🏗️ **Building** | Real-time systems and backend services with a focus on clean architecture |
+| 🧪 **Improving** | Existing projects (Bionic Reader) through iterative refactors, testing, and version upgrades |
+| 🤖 **Exploring** | AI/RAG pipelines, prompt-engineering tooling, and applied ML for decision support |
+| 🌱 **Learning** | Distributed/real-time architecture, and the fundamentals of blockchain & FinTech systems |
+| 🤝 **Open to** | Open-source collaboration and code review on backend/AI-adjacent repos |
+
+*Not all of the above are active at once — this is a rotating set of interests, not a permanent job description.*
+
+<br/>
+
+## 🧰 Tech Stack
+
+**Actively used**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+</p>
+
+**Exploring / hands-on exposure**
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter/Dart-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pine_Script-131722?style=flat-square&logo=tradingview&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain/Web3-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+</p>
+
+<details>
+<summary><b>Breakdown by category</b></summary>
+<br/>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, C, C++, JavaScript, HTML, CSS, Pine Script |
+| **Backend & Systems** | FastAPI, WebSockets, REST APIs, Docker, Docker Compose, MongoDB, SQLite (exposure), Linux, Git |
+| **AI / Data / CV** | OpenCV, NumPy, Machine Learning (Logistic Regression), RAG, OCR, PDF processing, Gemini/API-based integrations |
+| **Frontend** | HTML5, CSS, JavaScript, HTML5 Canvas, React (exposure), Tailwind CSS (exposure) |
+| **Other** | FFmpeg, GitHub, trading/financial tech concepts, blockchain/Web3 concepts |
+
+</details>
+
+<br/>
+
+## 🏗️ Engineering Philosophy
+Build → Test → Improve → Document
+
+- Practical projects over tutorial-only projects
+- Clean, modular architecture over quick hacks
+- Performance and scalability considered from the start, not bolted on
+- Documentation and testing as part of the build, not an afterthought
+- Understanding systems > just using frameworks
+- Iteration over one-shot builds — Bionic Reader is a good example: same core idea, several passes of refactoring, testing, and feature growth
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kushal98457-ctrl&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal98457-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal98457-ctrl&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kushal98457-ctrl&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&row=1" height="110"/>
+
+</div>
+
+<br/>
+
+## 🌍 Open Source
+
+I'm actively looking to contribute to real projects — not just star them. Interested in:
+
+- Finding active, well-maintained repos in backend/AI-adjacent spaces
+- Fixing issues and improving documentation
+- Refactoring for clarity and performance
+- Adding tests and small, well-scoped features
+- Submitting PRs that are genuinely useful, not padding for a contribution graph
+
+I don't have merged contributions to list yet — this is a stated direction I'm working toward, not a claim of a contribution history.
+
+<br/>
+
+## 🔭 Areas of Exploration
+
+Not everything below is a finished product — some are experiments, some are in progress.
+
+| Status | Area |
+|---|---|
+| 🧪 Exploring | AI notes summarizer, PDF/OCR pipelines |
+| 🧪 Exploring | RAG systems, modular RAG architecture (RAGForge-style) |
+| 🧪 Exploring | Device benchmarking using WebGPU |
+| 🧪 Exploring | Procedural/game development (including an in-progress procedurally-generated detective mystery game) |
+| 🧪 Exploring | Blockchain/Web3, trading tools, Pine Script strategies |
+| 🧪 Exploring | Email validation tooling, data/bandwidth-sharing concepts |
+| 🛠️ Built | Email/data-utility scripts and small developer tools |
+
+**On FinTech & blockchain specifically:** this is genuine technical curiosity — market-data systems, transaction/settlement mechanics, trading infrastructure — not a claim of professional trading or financial expertise.
+
+<br/>
+
+## 📈 Learning Direction
+Software Engineering
+→ Backend Development
+→ Systems & Performance
+→ AI / ML
+→ RAG
+→ Real-Time Applications
+→ Blockchain / FinTech
+→ Open Source
+
+Each stage builds on the last — I'm not chasing every technology at once, I'm moving through this progression one solid project at a time.
+
+<br/>
+
+## 📫 Connect
+
+*(will be connected shortly.)*
+
+<br/>
+
+---
+
+<div align="center">
+
+**Someone who learns by building.**
+
+</div>
