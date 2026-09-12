@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal_banner.svg" width="700" alt="Kushal — terminal boot banner"/>
+  <img src="assets/terminal_banner.svg" width="100%" alt="Kushal — terminal boot banner"/>
 </p>
 
 <div align="center">
