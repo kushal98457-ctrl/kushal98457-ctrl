@@ -110,7 +110,7 @@ Build → Test → Improve → Document
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kushal98457-ctrl&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kushal98457-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=kushal98457-ctrl&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="165"/>
 
 <br/>
 
