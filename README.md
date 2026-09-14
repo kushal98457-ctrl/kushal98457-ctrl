@@ -170,7 +170,7 @@ Each stage builds on the last — I'm not chasing every technology at once, I'm 
 
 <br/>
 
-## 📫 Connect
+## 📫 Connect Platforms
 
 *(will be connected shortly.)*
 
