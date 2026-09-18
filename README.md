@@ -34,11 +34,11 @@ I learn by shipping — real projects, real bugs, real refactors.
 
 | | |
 |---|---|
-| 🏗️ **Building** | Real-time systems and backend services with a focus on clean architecture |
-| 🧪 **Improving** | Existing projects (Bionic Reader) through iterative refactors, testing, and version upgrades |
-| 🤖 **Exploring** | AI/RAG pipelines, prompt-engineering tooling, and applied ML for decision support |
-| 🌱 **Learning** | Distributed/real-time architecture, and the fundamentals of blockchain & FinTech systems |
-| 🤝 **Open to** | Open-source collaboration and code review on backend/AI-adjacent repos |
+| 🏗️ **Building** | Detective: The AI Mystery — a procedurally-generated detective game, rebuilding a Python CLI prototype into a full Godot 4.x title |
+| 🧪 **Improving** | Bionic Reader — a bionic-reading app (FastAPI backend, PDF/DOCX/text in, HTML/PDF/TXT out) through staged feature builds |
+| 🤖 **Working on** | CAPACITY CONNECT for Smart India Hackathon 2026 (Team Innovex) — a digital capacity-building & LMS portal for the Ministry of Earth Sciences |
+| 🧬 **Exploring** | NaiviSense — pediatric clinical case-matching AI and longitudinal dataset architecture (case-based reasoning, evidence-linked RAG) |
+| 📚 **Learning** | Self-directed 42-topic AI/ML curriculum — Transformers through diffusion & energy-based models, one topic at a time |
 
 *Not all of the above are active at once — this is a rotating set of interests, not a permanent job description.*
 
@@ -144,29 +144,15 @@ Not everything below is a finished product — some are experiments, some are in
 
 | Status | Area |
 |---|---|
-| 🧪 Exploring | AI notes summarizer, PDF/OCR pipelines |
-| 🧪 Exploring | RAG systems, modular RAG architecture (RAGForge-style) |
-| 🧪 Exploring | Device benchmarking using WebGPU |
-| 🧪 Exploring | Procedural/game development (including an in-progress procedurally-generated detective mystery game) |
+| 🛠️ Building | Procedural game development — Detective: The AI Mystery (Godot 4.x) |
+| 🛠️ Building | Bionic Reader — FastAPI-based reading-assistance tool |
+| 🧪 Exploring | Deep AI/ML theory — attention, RAG, RLHF/DPO, RL, generative models |
+| 🧪 Exploring | Clinical/healthcare AI systems (NaiviSense) — case-based reasoning, human-in-the-loop review |
+| 🧪 Exploring | Civic/EdTech portals — LMS & capacity-building platforms (SIH 2026) |
 | 🧪 Exploring | Blockchain/Web3, trading tools, Pine Script strategies |
-| 🧪 Exploring | Email validation tooling, data/bandwidth-sharing concepts |
 | 🛠️ Built | Email/data-utility scripts and small developer tools |
 
 **On FinTech & blockchain specifically:** this is genuine technical curiosity — market-data systems, transaction/settlement mechanics, trading infrastructure — not a claim of professional trading or financial expertise.
-
-<br/>
-
-## 📈 Learning Direction
-Software Engineering
-→ Backend Development
-→ Systems & Performance
-→ AI / ML
-→ RAG
-→ Real-Time Applications
-→ Blockchain / FinTech
-→ Open Source
-
-Each stage builds on the last — I'm not chasing every technology at once, I'm moving through this progression one solid project at a time.
 
 <br/>
 
