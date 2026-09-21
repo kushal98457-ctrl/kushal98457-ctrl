@@ -18,7 +18,7 @@ I learn by shipping — real projects, real bugs, real refactors.
 
 <br/>
 
-## About Me
+## About Me...
 
 - 🎓 Computer Science & Engineering student
 - 🛠️ Interested in **backend engineering, real-time systems, AI/RAG applications, and developer tooling**
