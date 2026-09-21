@@ -6,8 +6,7 @@
 
 # Hi, I'm Kushal 👋
 
-### CS & Engineering student building software across AI, backend systems, real-time processing, and developer tools.
-
+### CS & Engineering student building software across AI, backend systems, real-time processing, and developer tools..
 I learn by shipping — real projects, real bugs, real refactors.
 
 <br/>
