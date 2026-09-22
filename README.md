@@ -166,6 +166,7 @@ I don't have merged contributions to list yet — this is a stated direction I'm
 <p>
 <a href="https://x.com/kushal98457"><img src="https://img.shields.io/badge/X-@kushal98457-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:kushal98457@gmail.com"><img src="https://img.shields.io/badge/Email-kushal98457@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Discord-kushal__9845-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 <br/>
