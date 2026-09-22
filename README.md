@@ -147,6 +147,67 @@ Build → Test → Improve → Document
 
 <br/>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎞️ ASCILINE
+GPU-accelerated ASCII video rendering engine — decodes and streams video through a Python/FastAPI backend, then renders it as live ASCII art in the browser via WebGPU and WebGL2 pipelines.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebGL2-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+
+**[🔗 View Repo](#)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 Bionic Reader
+A reading-assistance web app that reformats text using bionic reading (bold letter-fixation) to improve reading speed and focus. Full frontend redesign with a design-token system, light/dark themes, drag-and-drop upload, and adjustable strength presets.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+**[🔗 View Repo](#)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕵️ Detective: The AI Mystery
+A procedural deduction game where every case is generated from a seeded case generator and validated for solvability before play — no two mysteries are the same. Currently in active development, moving from an architecture-phase prototype toward a portfolio-grade release.
+
+<img src="https://img.shields.io/badge/Godot_4.3-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square"/>
+
+**[🔗 View Repo](#)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🗓️ Team Scheduling Platform
+A multi-user-type collaboration platform with O(1) scheduling slot lookup, Google Calendar OAuth sync, an internal chat system, and Gemini API integration — built as part of a team project.
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=googlecalendar&logoColor=white"/>
+
+**[🔗 View Repo](#)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🌍 Open Source
 
 I'm actively looking to contribute to real projects — not just star them. Interested in:
