@@ -40,26 +40,62 @@ I learn by shipping — real projects, real bugs, real refactors.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
 <img src="https://img.shields.io/badge/WebSockets-black?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyMuPDF-8A2BE2?style=flat-square"/>
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
+</p>
+
+**AI / ML**
+
+<p>
+<img src="https://img.shields.io/badge/RAG-6E56CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
+
+**Frontend / 3D**
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGPU-005A9C?style=flat-square"/>
+</p>
+
+**Blockchain / Web3**
+
+<p>
+<img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-F16822?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/>
 </p>
 
 **Exploring / hands-on exposure**
 
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/QLoRA-4B0082?style=flat-square"/>
 <img src="https://img.shields.io/badge/Flutter/Dart-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pine_Script-131722?style=flat-square&logo=tradingview&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blockchain/Web3-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
 </p>
 
 <details>
@@ -68,11 +104,13 @@ I learn by shipping — real projects, real bugs, real refactors.
 
 | Category | Technologies |
 |---|---|
-| **Languages** | Python, C, C++, JavaScript, HTML, CSS, Pine Script |
-| **Backend & Systems** | FastAPI, WebSockets, REST APIs, Docker, Docker Compose, MongoDB, SQLite (exposure), Linux, Git |
-| **AI / Data / CV** | OpenCV, NumPy, Machine Learning (Logistic Regression), RAG, OCR, PDF processing, Gemini/API-based integrations |
-| **Frontend** | HTML5, CSS, JavaScript, HTML5 Canvas, React (exposure), Tailwind CSS (exposure) |
-| **Other** | FFmpeg, GitHub, trading/financial tech concepts, blockchain/Web3 concepts |
+| **Languages** | Python, C, C++, JavaScript, HTML, CSS, Pine Script, Solidity |
+| **Backend & Systems** | FastAPI, REST APIs, WebSockets, Docker, Docker Compose, MongoDB, PostgreSQL, Supabase, SQLite, Linux, Git, GitHub |
+| **AI / Data / CV** | OpenCV, NumPy, PyMuPDF, RAG, OCR, PDF processing, Gemini API |
+| **AI / ML (exploring)** | PyTorch, TensorFlow, Hugging Face, QLoRA |
+| **Frontend / 3D** | React, Vite, Tailwind CSS, HTML5 Canvas, Three.js, WebGL, WebGPU |
+| **Blockchain / Web3** | Blockchain, Web3, Ethers.js, Solidity, IPFS |
+| **Other** | FFmpeg, Flutter/Dart, trading/financial tech concepts |
 
 </details>
 
@@ -123,9 +161,12 @@ I don't have merged contributions to list yet — this is a stated direction I'm
 
 <br/>
 
-## 📫 Connect Platforms
+## 📫 Connect
 
-*(will be connected shortly.)*
+<p>
+<a href="https://x.com/kushal98457"><img src="https://img.shields.io/badge/X-@kushal98457-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:kushal98457@gmail.com"><img src="https://img.shields.io/badge/Email-kushal98457@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 <br/>
 
